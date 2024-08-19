@@ -1,0 +1,357 @@
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210411Dougayou\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecond\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210411DougayouNotSecondMouse\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210428BestEyeTrackingAimCopy - コピー - コピー - コピー\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.EstimateGrapth.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\tobii_interaction_lib_cs.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.EstimateGrapth.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\TPLinkSmartDevices.pdb
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Buffers.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Memory.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\Dropbox.Api.dll
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\bin\x64\Debug\Dropbox.Api.xml
+C:\Users\daiki\source\repos\EyeTrackingAim120210925RGB1\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.ModifyEye.resources
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe.config
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\Dropbox.Api.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Buffers.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Memory.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Text.Json.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\Dropbox.Api.xml
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Buffers.xml
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Memory.xml
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\TPLinkSmartDevices.pdb
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csprojAssemblyReference.cache
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Dialog.resources
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.EstimateGrapth.resources
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Form1.resources
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.ModifyEye.resources
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.Properties.Resources.resources
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl1.resources
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.UserControl2.resources
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.GenerateResource.cache
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CoreCompileInputs.cache
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.csproj.CopyComplete
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.exe
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\obj\x64\Debug\EyeTrackingAim1.pdb
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\daiki\EyeTrackingAim\EyeTrackingAim1\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.xml

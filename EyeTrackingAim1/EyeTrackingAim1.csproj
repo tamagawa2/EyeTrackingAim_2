@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\OpenCvSharp4.runtime.win.4.5.5.20211231\build\netstandard\OpenCvSharp4.runtime.win.props" Condition="Exists('..\packages\OpenCvSharp4.runtime.win.4.5.5.20211231\build\netstandard\OpenCvSharp4.runtime.win.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AC63B8D8-9D05-47FC-9F93-1EFDA164E986}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EyeTrackingAim1</RootNamespace>
+    <AssemblyName>EyeTrackingAim1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dropbox.Api, Version=6.31.0.0, Culture=neutral, PublicKeyToken=310f0e82fbb45d01, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dropbox.Api.6.31.0\lib\netstandard2.0\Dropbox.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathNet.Numerics.5.0.0\lib\net461\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WindowsAPICodePack-Core.1.1.1\lib\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WindowsAPICodePack-Shell.1.1.1\lib\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp4.4.5.5.20211231\lib\netstandard2.0\OpenCvSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp4.Extensions.4.5.5.20211231\lib\netstandard2.0\OpenCvSharp.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Common, Version=4.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.5.0.3\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Text.Json, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tobii.Research, Version=1.8.0.1108, Culture=neutral, PublicKeyToken=70326046dcdce6cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\Debug\Tobii.Research.dll</HintPath>
+    </Reference>
+    <Reference Include="tobii_interaction_lib_cs">
+      <HintPath>..\..\..\..\interaction_lib_sdk_windows_x64_dynamic_1.0.2.1 (1)\lib\x64\tobii_interaction_lib_cs.dll</HintPath>
+    </Reference>
+    <Reference Include="TPLinkSmartDevices, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Downloads\TPLinkSmartDevices-master\TPLinkSmartDevices-master\TPLinkSmartDevices\bin\Debug\TPLinkSmartDevices.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalibrationCenter .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalibrationCenter .Designer.cs">
+      <DependentUpon>CalibrationCenter .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstimateGrapth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstimateGrapth.Designer.cs">
+      <DependentUpon>EstimateGrapth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eyecenter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eyecenter.Designer.cs">
+      <DependentUpon>Eyecenter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eyecenter1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eyecenter1.Designer.cs">
+      <DependentUpon>eyecenter1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eyecenterkuro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eyecenterkuro.Designer.cs">
+      <DependentUpon>eyecenterkuro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Face_Byouga_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Face_Byouga_Form.Designer.cs">
+      <DependentUpon>Face_Byouga_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyEye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyEye.Designer.cs">
+      <DependentUpon>ModifyEye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RawEye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RawEye.Designer.cs">
+      <DependentUpon>RawEye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Scripts\Ball_Move\ball.cs" />
+    <Compile Include="Scripts\Calibration\CalibrationClass.cs" />
+    <Compile Include="Scripts\Calibration\CaliCoodinate\GoCalibrationCoodinate.cs" />
+    <Compile Include="Scripts\Calibration\CaliOffset\GoCalibrationOffset.cs" />
+    <Compile Include="Scripts\Calibration\DoCalibration.cs" />
+    <Compile Include="Scripts\Calibration\RecordCalibration.cs" />
+    <Compile Include="Scripts\ColorHikaku.cs" />
+    <Compile Include="Scripts\EyeData\EnumKeyData.cs" />
+    <Compile Include="Scripts\EyeData\EyeData.cs" />
+    <Compile Include="Scripts\EyeData\Recold.cs" />
+    <Compile Include="Scripts\EyeTrackingAim\DoEyeTrackingAim.cs" />
+    <Compile Include="Scripts\EyeTrackingAim\EyeTrackingAim_Setting.cs" />
+    <Compile Include="Scripts\EyeTrackingAim\Window_Not_Move.cs" />
+    <Compile Include="Scripts\Face_Byouga\Byouga_Setting.cs" />
+    <Compile Include="Scripts\Fine_tunig\set_Auto_encoder_data.cs" />
+    <Compile Include="Scripts\Fine_tunig\set_fine_tunig_data.cs" />
+    <Compile Include="Scripts\GazouNinnsiki\Akarusa.cs" />
+    <Compile Include="Scripts\GazouNinnsiki\PupilDiameter.cs" />
+    <Compile Include="Scripts\Grapth\GrapthSetting.cs" />
+    <Compile Include="Scripts\Grapth\SeriesSetting.cs" />
+    <Compile Include="Scripts\KannsuuHozon\DegitalFilter.cs" />
+    <Compile Include="Scripts\KannsuuHozon\KaitennGyouretu.cs" />
+    <Compile Include="Scripts\KannsuuHozon\Kannsuu.cs" />
+    <Compile Include="Scripts\Prediction\ActiveEyeKannsuu.cs" />
+    <Compile Include="Scripts\Prediction\EstimateClass.cs" />
+    <Compile Include="Scripts\Prediction\RecordPrediction.cs" />
+    <Compile Include="Scripts\python\do_python.cs" />
+    <Compile Include="Scripts\RawInput\RawInputKey.cs" />
+    <Compile Include="Scripts\RawInput\Win32apiRawInput.cs" />
+    <Compile Include="Scripts\SendInput\DriverSendInput.cs" />
+    <Compile Include="Scripts\SendInput\MouseRawInut.cs" />
+    <Compile Include="Scripts\SendInput\RecordDriverSendinput.cs" />
+    <Compile Include="Scripts\SendInput\SendInputMethod.cs" />
+    <Compile Include="Scripts\SendInput\Setwindow.cs" />
+    <Compile Include="Scripts\SendInput\Win32api.cs" />
+    <Compile Include="Scripts\Tobii.StreamEngine.Interop.cs" />
+    <Compile Include="Scripts\Transmisstion\IPC\IPC.cs" />
+    <Compile Include="Scripts\Transmisstion\UDP\UDPReceive.cs" />
+    <Compile Include="Scripts\WindowColor\GetColor.cs" />
+    <Compile Include="Scripts\DisPlay_Setting\Display_color.cs" />
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl2.Designer.cs">
+      <DependentUpon>UserControl2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dialog.resx">
+      <DependentUpon>Dialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstimateGrapth.resx">
+      <DependentUpon>EstimateGrapth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyEye.resx">
+      <DependentUpon>ModifyEye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl2.resx">
+      <DependentUpon>UserControl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\目 - コピー.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EyeTrack_dhash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apex Legends Screenshot 2021.10.20 - 22.29.20.35 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apex Legends Screenshot 2021.10.20 - 23.02.38.20 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 および x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Scripts\Macro\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>このプロジェクトは、このコンピューター上にない NuGet パッケージを参照しています。それらのパッケージをダウンロードするには、[NuGet パッケージの復元] を使用します。詳細については、http://go.microsoft.com/fwlink/?LinkID=322105 を参照してください。見つからないファイルは {0} です。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\OpenCvSharp4.runtime.win.4.5.5.20211231\build\netstandard\OpenCvSharp4.runtime.win.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\OpenCvSharp4.runtime.win.4.5.5.20211231\build\netstandard\OpenCvSharp4.runtime.win.props'))" />
+  </Target>
+</Project>
